@@ -1,0 +1,10 @@
+assembly/result/
+data/
+logs/
+/.idea
+*.pyc
+.idea
+.vscode
+__pycache__/
+*/*/__pycache__
+
