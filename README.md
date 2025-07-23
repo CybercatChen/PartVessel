@@ -1,6 +1,18 @@
 # Hierarchical Part-based Generative Model for Realistic 3D Blood Vessel
 
-Welcome to the project! This repository implements a hierarchical part-based generative model focused on realistic 3D blood vessel.
+Welcome to the project! This repository implements a hierarchical part-based generative model focused on realistic 3D blood vessel.(MICCAI2025)
+
+If you find this work helpful, please consider citing:
+
+```bibtex
+@article{chen2025hierarchical,
+  title={Hierarchical Part-based Generative Model for Realistic 3D Blood Vessel},
+  author={Chen, Siqi and Zhang, Guoqing and Lai, Jiahao and Shen, Bingzhi and Zhang, Sihong and Dong, Caixia and Chen, Xuejin and Li, Yang},
+  journal={arXiv preprint arXiv:2507.15223},
+  year={2025},
+  url={https://arxiv.org/abs/2507.15223v1}
+}
+```
 
 ## Dependencies 📦
 
