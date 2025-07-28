@@ -1,7 +1,7 @@
-# Hierarchical Part-based Generative Model for Realistic 3D Blood Vessel
+# Hierarchical Part-based Generative Model for Realistic 3D Blood Vessel (MICCAI2025)
 
 Welcome to the project! This repository implements a hierarchical part-based generative model focused on realistic 3D blood vessel.(MICCAI2025)
-
+🧠 **[MICCAI 2025 arXiv](https://arxiv.org/pdf/2507.15223)** 
 If you find this work helpful, please consider citing:
 
 ```bibtex
